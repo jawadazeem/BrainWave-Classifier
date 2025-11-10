@@ -13,10 +13,9 @@ It extracts frequency features using FFT (Fast Fourier Transform), trains a Rand
 ## Project Structure
 
 project/
-│
 ├── scripts/
-│ ├── eeg_analysis.py # main analysis script
-│ └── eeg_data.csv # sample dataset (synthetic)
+│   ├── eeg_analysis.py # main analysis script
+│   └── eeg_data.csv # sample dataset (synthetic)
 └── README.md
 
 
