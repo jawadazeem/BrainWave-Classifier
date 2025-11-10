@@ -10,14 +10,6 @@ It extracts frequency features using FFT (Fast Fourier Transform), trains a Rand
 4. Train a Random Forest classifier.
 5. Display model accuracy and a simple band power plot.
 
-## Project Structure
-
-* **project/**
-    * **scripts/** (Directory containing analysis code and data)
-        * `eeg_analysis.py` (The main analysis script)
-        * `eeg_data.csv` (Sample synthetic dataset)
-    * `README.md` (This file)
-
 
 ## Requirements
 Install packages:
