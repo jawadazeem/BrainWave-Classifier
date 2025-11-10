@@ -12,11 +12,11 @@ It extracts frequency features using FFT (Fast Fourier Transform), trains a Rand
 
 ## Project Structure
 
-project/
-├── scripts/
-│   ├── eeg_analysis.py # main analysis script
-│   └── eeg_data.csv # sample dataset (synthetic)
-└── README.md
+* **project/**
+    * **scripts/** (Directory containing analysis code and data)
+        * `eeg_analysis.py` (The main analysis script)
+        * `eeg_data.csv` (Sample synthetic dataset)
+    * `README.md` (This file)
 
 
 ## Requirements
