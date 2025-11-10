@@ -1,0 +1,11 @@
+Time,Channel1,Channel2,Channel3,Condition
+0,10.2,8.5,9.1,Rest
+1,10.4,8.6,9.0,Rest
+2,10.3,8.7,9.2,Rest
+3,11.0,9.1,9.5,Focus
+4,11.3,9.3,9.8,Focus
+5,11.1,9.2,9.7,Focus
+6,10.5,8.9,9.3,Rest
+7,10.7,9.0,9.4,Rest
+8,11.2,9.4,9.9,Focus
+9,11.4,9.6,10.1,Focus
